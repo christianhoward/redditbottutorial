@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import praw
 
 user_agent = ("PyEng Bot 0.1")
