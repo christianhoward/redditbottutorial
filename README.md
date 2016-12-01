@@ -1,6 +1,6 @@
 # RedditBot Tutorial
 
-A reddit bot built using Python3 and the Python Reddit API Wrapper package
+A reddit bot built using Python3 and the Python Reddit API Wrapper package.
 
 ## Requirements
 - Python3
